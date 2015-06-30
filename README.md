@@ -2,7 +2,7 @@
 A Syntax theme for atom editor. Inspired by Google's Material Design.  
 Recommended UI theme is [Atom Material UI](https://atom.io/themes/atom-material-ui)
 
-![Atom Creative Theme](https://github.com/Mehdi-Hp/atom-creative-dark-syntax/raw/master/screenshot.png)  
+![Atom Creative Theme](https://raw.githubusercontent.com/Mehdi-Hp/atom-creative-dark-syntax/master/screenshot.png)  
 
 *Current version is highly experimental.*  
 
