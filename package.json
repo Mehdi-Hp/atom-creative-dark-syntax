@@ -1,7 +1,7 @@
 {
   "name": "creative-dark-syntax",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "A CREATIVE syntax theme. best use for UI development",
   "keywords": [
     "syntax",
@@ -9,9 +9,9 @@
     "simple",
     "material"
   ],
-  "repository": "https://github.com/atom/creative-dark-syntax",
+  "repository": "https://github.com/Mehdi-Hp/atom-creative-dark-syntax.git",
   "license": "MIT",
   "engines": {
-    "atom": ">=0.0.1 <2.0.0"
+    "atom": ">=0.50.0"
   }
 }
