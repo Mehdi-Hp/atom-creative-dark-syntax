@@ -222,8 +222,7 @@ atom-text-editor .search-results .marker.current-result .region,
   }
 
   &.other.attribute-name {
-    color: @orange;
-
+    color: @yellow;
     &.id {
       color: @orange;
     }
@@ -370,4 +369,13 @@ atom-text-editor[mini] .scroll-view,
 }
 .property-value > .unit.css {
    color: @red-light-1;
+}
+.constant.numeric.scss, .constant.numeric.less, .constant.numeric.css {
+   color: @red-light-1;
+}
+.unit.scss, .unit.less, .unit.css {
+   color: @red-light-1;
+}
+.entity.attribute-name.html {
+   color: @orange;
 }
