@@ -47,7 +47,7 @@ atom-text-editor, :host {
   }
 
   .selection .region {
-    background-color: @syntax-selection-color;
+    background-color: @syntax-result-marker-color-selected;
   }
 }
 
@@ -378,4 +378,19 @@ atom-text-editor[mini] .scroll-view,
 }
 .entity.attribute-name.html {
    color: @orange;
+}
+.constant.css, .constant.scss, .constant.less {
+   color: @purple-light-1;
+}
+
+.terminator {
+  color: #f2f2f2;
+}
+
+.string {
+  color: #e05252;
+}
+
+.function-call {
+   color: @cyan;
 }
