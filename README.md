@@ -7,6 +7,14 @@ A Syntax theme for atom editor.
 
 Also you can install it with `apm install creative-dark-syntax`
 
+#### PHP
+
 ![Atom Creative Theme](https://raw.githubusercontent.com/Mehdi-Hp/atom-creative-dark-syntax/master/php.png)  
+
+#### SASS
+
 ![Atom Creative Theme](https://raw.githubusercontent.com/Mehdi-Hp/atom-creative-dark-syntax/master/sass.png)  
+
+#### JS
+
 ![Atom Creative Theme](https://raw.githubusercontent.com/Mehdi-Hp/atom-creative-dark-syntax/master/js.png)  
